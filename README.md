@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Bharath Reddy
 
-**MuleSoft Integration Engineer | API Architect | Enterprise Integration Specialist**
+**MuleSoft Integration Engineer | API Integration Specialist**
 
 ## 🚀 About Me
 
